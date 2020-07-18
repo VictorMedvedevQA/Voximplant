@@ -1,0 +1,5 @@
+{
+  "errorAttribute": "has-error",
+  "elemPositionAttribute": "option-0",
+  "chooseAttribute": "aria-activedescendant"
+}

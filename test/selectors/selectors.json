@@ -1,0 +1,15 @@
+{
+  "contactUsButton": ".vox-button.secondary.large",
+  "inputFields": ".validator .input-inner",
+  "headerFrame": "//h4[@class='popup-title']",
+  "countryCodeDropdown": "//span[@class='vti__country-code']",
+  "russiaCountryCode": "//div[@class='vti__flag ru']",
+  "phoneNumberField": "//input[@class='vti__input']",
+  "phoneFieldSuccessLabel": "//div[@class='phone-wrap']//div[@class='success']",
+  "solutionField": ".open-indicator.vs__open-indicator",
+  "chooseFieldCheck": "//input[contains(@aria-labelledby, 'combobox')]",
+  "messageField": "//textarea[@class='textarea-inner']",
+  "errorLabel": "//div[@class='error']",
+  "submitButton": ".popup-body .vox-button.primary.large",
+  "linkButtons": "//div[@class='privacy-policy']//a"
+}
